@@ -1,4 +1,5 @@
-<div class="container-fluid d-flex justify-content-center bg-light py-4">
+
+<div class="container d-flex justify-content-center rounded py-4">
     {{-- Row --}}
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
         {{-- column --}}
@@ -59,5 +60,7 @@
     </div>
     {{-- End Row --}}
 </div>
+
+
 
 
